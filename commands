@@ -1,0 +1,17 @@
+this is the command file. 
+pwd
+ll
+ls
+cat
+ifconfig
+touch
+mkdir
+cd
+echo
+nproc
+free -m
+cal
+proc
+lsblk
+added
+

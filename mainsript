@@ -1,0 +1,5 @@
+
+#!/bin/bash
+NAME=odilia
+echo "your name is $NAME"
+
