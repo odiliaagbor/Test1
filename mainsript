@@ -2,4 +2,4 @@
 #!/bin/bash
 NAME=odilia
 echo "your name is $NAME"
-
+echo " your new name is $NAME1"
